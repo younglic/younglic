@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @younglic
-- 👀 I’m interested in dl
-- 🌱 I’m currently learning dl
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in pointcloud
 - 📫 How to reach me younglic0380@gmail.com
 
 <!---
